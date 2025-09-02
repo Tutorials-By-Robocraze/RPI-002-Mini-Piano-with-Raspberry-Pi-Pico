@@ -19,4 +19,5 @@ By pressing different push buttons, you can play musical notes through a **passi
 Check out the working demo on Instagram:  
 👉 [Watch the Reel](https://www.instagram.com/reel/DNf1w5Iz2QP/?igsh=bW9iOXVudDE1aHZm)  
 
-
+## Circuit Diagram
+![Mini Piano Circuit](./mini-piano-diagram.jpeg)
